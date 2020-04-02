@@ -10,8 +10,6 @@ import java.util.ArrayList;
 /**
  * A Broker that schedules Tasks to the VMs
  * as per FCFS Scheduling Policy
- *
- * @author Linda J
  */
 public class DatacenterBrokerFCFS extends DatacenterBroker {
 
